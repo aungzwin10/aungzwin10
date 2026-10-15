@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aung Zaw Win, just a developer working at Anzer IT Healthcare Myanmar.
+- 👋 Hi, I’m Aung Zaw Win, just a developer.
 - 👀 I’m interested in web and mobile application development.
 - 🌱 I’m currently learning Flutter and .Net Core.
 - 💞️ I’m looking to collaborate on open source project which use Java, Spring, Flutter, HTML, CSS, JS.
